@@ -1,1 +1,2 @@
-# Bernier_Gabriel_Lamer_Daniel_API_Server
+# CRUD_Demo
+This is a project that illustrate a minimal Node.js API server.
